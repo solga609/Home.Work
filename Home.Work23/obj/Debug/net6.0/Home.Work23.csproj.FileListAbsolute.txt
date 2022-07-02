@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork1\Home.Work23\bin\Debug\net6.0\Home.Work23.exe
+C:\Users\User\Desktop\HomeWork1\Home.Work23\bin\Debug\net6.0\Home.Work23.deps.json
+C:\Users\User\Desktop\HomeWork1\Home.Work23\bin\Debug\net6.0\Home.Work23.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork1\Home.Work23\bin\Debug\net6.0\Home.Work23.dll
+C:\Users\User\Desktop\HomeWork1\Home.Work23\bin\Debug\net6.0\Home.Work23.pdb
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.dll
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\refint\Home.Work23.dll
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.pdb
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\Home.Work23.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeWork1\Home.Work23\obj\Debug\net6.0\ref\Home.Work23.dll
